@@ -1,1 +1,1 @@
-log1.md
+log1.md. New one local.
